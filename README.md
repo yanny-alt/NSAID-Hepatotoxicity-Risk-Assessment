@@ -25,21 +25,16 @@ Non-hepatotoxic NSAIDs cluster with hepatotoxic compounds rather than forming se
 - **Clustering:** Optimal **k=2 clusters** (silhouette score = **0.318**)  
 - **Molecular Features:** LogP, TPSA, HBD, HBA, MW + **1024-bit Morgan fingerprints**
 
----
 
-Dependencies
 
-pandas, numpy, matplotlib, seaborn
-scikit-learn, scipy
-rdkit-pypi
 
-Limitations
+## Limitations
 
-Small dataset (n=30)
-Extreme class imbalance
-Single non-hepatotoxic compound
-Exploratory analysis only
+- Small dataset (n=30)
+- Extreme class imbalance
+- Single non-hepatotoxic compound
+- Exploratory analysis only
 
 Contact
-[Your Name] - [Your Email]
-[Your Institution]
+Favour Igwezeke - beingfave@gmail.com
+University of Nigeria
