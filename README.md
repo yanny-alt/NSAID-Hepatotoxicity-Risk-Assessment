@@ -15,24 +15,7 @@ Non-hepatotoxic NSAIDs cluster with hepatotoxic compounds rather than forming se
 
 ---
 
-## Repository Structure
 
-Repository Structure
-nsaid-hepatotoxicity-analysis/
-├── data/
-│   ├── ENHANCED_DATASET.CSV           # Main dataset (30 NSAIDs)
-│   └── [other data files]
-├── figures/
-│   ├── Figure1_Dataset_Overview.png
-│   ├── Figure2_Unsupervised_Analysis.png
-│   └── Figure3_Correlation_Similarity.png
-├── results/
-│   ├── Unsupervised_Analysis_Results.csv
-│   ├── Molecular_Descriptor_Statistics.csv
-│   └── Cluster_Composition_Analysis.csv
-├── NSAID_Hepatotoxicity_Analysis.ipynb  # Main analysis notebook
-├── requirements.txt
-└── README.md
 ---
 
 ## Results Summary
